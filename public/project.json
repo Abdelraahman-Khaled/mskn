@@ -1,0 +1,20 @@
+[
+    {
+        "id":"1",
+        "image": "/src/assets/maps/map.jpg",
+        "location":"السادس من أكتوبر الجديدة",
+        "city":"دار مصر",
+        "description":"بمنطقة مركز المال و الاعمال بالمدينة",
+        "top":"منطقة مركز المال والأعمال.",
+        "bottom":"طريق – منطقة مركز المال والاعمال",
+        "right":"أنشطة سكنية.",
+        "left":"أنشطة سكنية.",
+        "special":"يقع المشروع ضمن منطقة مركز المال والاعمال التي تضم أنشطة خدمية متنوعة",
+        "quantity":"يضم المشروع عدد 11 وحدة سكنية شاغرة",
+        "images":[
+            {"id":"1","src": "/src/assets/maps/projectdetails.jpg","alt":"Image1"},
+            {"id":"2","src": "/src/assets/maps/projectdetails.jpg","alt":"Image2"},
+            {"id":"3","src": "/src/assets/maps/projectdetails.jpg","alt":"Image3" }
+        ]
+    }
+]
